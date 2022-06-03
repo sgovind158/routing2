@@ -1,0 +1,30 @@
+/ Home   Accessiable to all
+
+/ Login  Accessiable to all
+/ feeds   only be accessiable after i Login
+
+1. wrapping our code in BrowserRouter
+2 creating Routes 
+3 Creating Links in Navbar
+
+Goal :
+1; user should be able to Login
+2. Feeds page should only be accessiable once i login 
+
+
+## Creating a Context
+ 1. createContext
+
+ 2. Create Provider
+    1. return children
+    2. pass value
+
+ 3. wrap Application inside the Provider
+ 4 useContext
+
+ 1. Protected Routes
+ 2. Navigate Tag
+ 3  Passing state to Redirect 
+ 4. replacing url to have good browser history
+
+ 2:14: 21
